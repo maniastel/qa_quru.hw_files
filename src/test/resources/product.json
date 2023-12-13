@@ -1,0 +1,17 @@
+{
+  "product_id": 12,
+  "product_code": "U0012O5AF0",
+  "product_type": "P",
+  "company_id": "2",
+  "list_price": "45.00",
+  "amount": "10",
+  "shipping_freight": "0.00",
+  "product": "100g Pants",
+  "price": "30.000000",
+  "category_ids": [
+    255,
+    224
+  ],
+  "base_price": "30.000000",
+  "main_category": 224
+}
